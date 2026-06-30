@@ -6,9 +6,9 @@ int leds[4] = {13, 12, 11, 10};
 int botoes[4] = {6, 5, 4, 3};
 int pinBuzzer = 8;
 
-int tempoF1 = 3000;
-int tempoF2 = 2000;
-int tempoF3 = 500;
+int tempoF1 = 1200;
+int tempoF2 = 800;
+int tempoF3 = 400;
 
 int ledAtual = 0; 
 bool botaoJaApertado = false;
